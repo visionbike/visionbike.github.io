@@ -1,0 +1,16 @@
+# Authors
+
+Nguyen Thanh Thien Phuc:
+  name        : "Nguyen Thanh Thien Phuc"
+  bio         : "An stupid guy who is studying computer science"
+  avatar      : "/assets/images/"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:phuc.visionbike@gmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://visionbike.github.io"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/visionbike"
